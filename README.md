@@ -1,5 +1,3 @@
-# concurrency_program
-
 # Concurrency Lab (Thread, Asyncio, Process Pool)
 
 เพื่อศึกษาการทำงานของ Concurrency ใน Python  
